@@ -64,3 +64,7 @@ class Program
 }
 Please note that this is a simplified example and may not work in all environments. Additionally, it assumes that the procdump64.exe utility is available and properly configured.
 Always exercise caution, adhere to ethical guidelines, and ensure you have proper authorization before performing any security assessments or penetration tests. Unauthorized access or exploitation of systems is illegal and unethical.
+
+
+
+LINES 3,28,and 32 were questions asked!!!!
